@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://matthewswong.com"><img alt="Website" src="https://img.shields.io/badge/Website-matthewswong.com-0A66C2?logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matthewswong/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matthewswong-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/matthews-wong?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore-my%20repos-2088FF?logo=github&logoColor=white"></a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-6f42c1">
-  <img alt="Open to" src="https://img.shields.io/badge/Open%20to-collaboration-1f883d">
 </p>
 
 ---
@@ -80,8 +81,9 @@ I'm a developer who enjoys the full path from an idea to something running in pr
 
 ### 🤝 Connect
 
+- 🌐 Website: [matthewswong.com](https://matthewswong.com)
+- 💼 LinkedIn: [in/matthewswong](https://www.linkedin.com/in/matthewswong/)
 - 🐙 GitHub: [@matthews-wong](https://github.com/matthews-wong)
 - 📫 Email: matthewswong2610@gmail.com
-- 💼 LinkedIn: _add your profile URL here_
 
 <sub>⭐ If any of these projects are useful or interesting, a star is always appreciated.</sub>
