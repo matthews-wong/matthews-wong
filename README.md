@@ -68,14 +68,14 @@ I'm a developer who enjoys the full path from an idea to something running in pr
 
 ---
 
-### 📊 GitHub in numbers
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matthews-wong&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthews-wong&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/matthews-wong"><img alt="Followers" src="https://img.shields.io/github/followers/matthews-wong?style=for-the-badge&logo=github&label=Followers&labelColor=1f2328&color=2088FF"></a>
+  <a href="https://github.com/matthews-wong?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-explore-2088FF?style=for-the-badge&logo=github&labelColor=1f2328"></a>
 </p>
 
-<sub>Stats cards render live data via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sub>
+<sub>The languages and tools I work with most are in the tech-stack row above.</sub>
 
 ---
 
