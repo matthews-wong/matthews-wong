@@ -64,6 +64,42 @@ I'm a developer who enjoys the full path from an idea to something running in pr
 | [**k8s-observability-stack**](https://github.com/matthews-wong/k8s-observability-stack) | Ready-to-run Prometheus + Grafana + Loki stack with provisioned dashboards and alert rules. |
 | [**cloud-cost-insights**](https://github.com/matthews-wong/cloud-cost-insights) | FinOps CLI that turns a cloud cost export into spend analysis and savings recommendations. |
 
+### 🔎 SEO toolkit
+| Project | What it does |
+| --- | --- |
+| [**seo-meta-analyzer**](https://github.com/matthews-wong/seo-meta-analyzer) | Audit a page's meta / OG / heading tags and get a scored, actionable report. |
+| [**structured-data-validator**](https://github.com/matthews-wong/structured-data-validator) | Extract and validate JSON-LD / schema.org structured data. |
+| [**sitemap-generator**](https://github.com/matthews-wong/sitemap-generator) | Crawl a site and generate a valid `sitemap.xml` + `robots.txt`. |
+| [**seo-keyword-clusters**](https://github.com/matthews-wong/seo-keyword-clusters) | Cluster keywords by topic and classify search intent. |
+| [**core-web-vitals-reporter**](https://github.com/matthews-wong/core-web-vitals-reporter) | Turn a Lighthouse report into a Core Web Vitals summary with fixes. |
+
+### 🧭 GEO — Generative Engine Optimization
+| Project | What it does |
+| --- | --- |
+| [**geo-content-optimizer**](https://github.com/matthews-wong/geo-content-optimizer) | Score and improve content for AI answer engines (with Claude). |
+| [**answer-engine-simulator**](https://github.com/matthews-wong/answer-engine-simulator) | Preview how an AI answer engine would summarize and cite your page. |
+| [**ai-citation-tracker**](https://github.com/matthews-wong/ai-citation-tracker) | Track whether AI answer engines cite your domain over time. |
+| [**llms-txt-generator**](https://github.com/matthews-wong/llms-txt-generator) | Generate an `llms.txt` so AI crawlers can understand your site. |
+| [**faq-schema-generator**](https://github.com/matthews-wong/faq-schema-generator) | Emit FAQ / HowTo schema.org markup for rich results and AI. |
+
+### 🔐 Auth &amp; OAuth
+| Project | What it does |
+| --- | --- |
+| [**oauth2-connector**](https://github.com/matthews-wong/oauth2-connector) | Reusable OAuth2 client (auth code + PKCE) with Google/GitHub presets. |
+| [**oauth2-server-demo**](https://github.com/matthews-wong/oauth2-server-demo) | A minimal, readable OAuth2 authorization server (educational). |
+| [**jwt-auth-service**](https://github.com/matthews-wong/jwt-auth-service) | JWT auth with rotating refresh tokens and reuse detection. |
+| [**oidc-sso-gateway**](https://github.com/matthews-wong/oidc-sso-gateway) | OIDC single-sign-on gateway with a bundled mock identity provider. |
+
+### 🧰 Backend &amp; platform utilities
+| Project | What it does |
+| --- | --- |
+| [**webhook-dispatcher**](https://github.com/matthews-wong/webhook-dispatcher) | Reliable webhook delivery: retries, backoff + jitter, HMAC signing, DLQ. |
+| [**api-rate-limiter**](https://github.com/matthews-wong/api-rate-limiter) | Token-bucket & sliding-window rate limiting for FastAPI. |
+| [**feature-flags-service**](https://github.com/matthews-wong/feature-flags-service) | Feature flags with boolean, percentage rollout, and targeting + a client SDK. |
+| [**serverless-image-optimizer**](https://github.com/matthews-wong/serverless-image-optimizer) | Serverless image resize/optimize handler for AWS Lambda. |
+| [**slack-alert-bot**](https://github.com/matthews-wong/slack-alert-bot) | Route operational alerts to Slack with rich Block Kit formatting. |
+| [**vector-search-benchmark**](https://github.com/matthews-wong/vector-search-benchmark) | Benchmark exact vs. approximate vector search (recall & latency). |
+
 <sub>More of my earlier work: <a href="https://github.com/matthews-wong/ai-gym">ai-gym</a> · <a href="https://github.com/matthews-wong/aifeeds">aifeeds</a> · <a href="https://github.com/matthews-wong/devops-k8s-operator-20260717">devops-k8s-operator</a> · <a href="https://github.com/matthews-wong/springboot-metrics">springboot-metrics</a> · <a href="https://github.com/matthews-wong/k6-loadtest">k6-loadtest</a></sub>
 
 ---
