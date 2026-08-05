@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://matthewswong.com"><img alt="Website" src="https://img.shields.io/badge/Website-matthewswong.com-0A66C2?logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matthewswong/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matthewswong-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/matthews-wong/claude-code-plugins"><img alt="Plugins" src="https://img.shields.io/badge/Claude%20Code-40%20plugins-D97757?logo=anthropic&logoColor=white"></a>
+  <a href="https://github.com/matthews-wong/claude-code-plugins"><img alt="Plugins" src="https://img.shields.io/badge/Claude%20Code-43%20plugins-D97757?logo=anthropic&logoColor=white"></a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Workflows-6f42c1">
 </p>
 
@@ -23,9 +23,7 @@ What I love most right now is **agentic workflows** — designing systems where 
 
 ### 🌟 Featured: [claude-code-plugins](https://github.com/matthews-wong/claude-code-plugins)
 
-A marketplace of **40 Claude Code plugins** — agentic-workflow core (skills, subagents, verification hooks, orchestration, cost controls) organized around Boris Cherny's five stages of AI adoption, plus an enterprise layer for security, compliance, governance, and quality. Includes research docs on writing good plugins and lean, structured context. `/plugin marketplace add matthews-wong/claude-code-plugins`
-
-> These are portfolio & demonstration projects — real, runnable code with honest READMEs, meant to show how I think and build.
+A marketplace of **43 Claude Code plugins** — agentic-workflow core (skills, subagents, verification hooks, orchestration, cost controls) organized around Boris Cherny's five stages of AI adoption, plus an enterprise layer for security, compliance, governance, and quality, and plugins modeled on his own workflow. Includes research docs on writing good plugins, lean/structured context, and the Boris Cherny playbook. `/plugin marketplace add matthews-wong/claude-code-plugins`
 
 ### 🛠️ Tech I reach for
 
