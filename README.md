@@ -49,6 +49,9 @@ I'm a developer who enjoys the full path from an idea to something running in pr
 | [**semantic-doc-search**](https://github.com/matthews-wong/semantic-doc-search) | Embeddings-based semantic search over a docs corpus, served via FastAPI with a minimal web UI. |
 | [**llm-prompt-lab**](https://github.com/matthews-wong/llm-prompt-lab) | TypeScript prompt-engineering toolkit: templating, token estimation, and an evaluation harness. |
 | [**ml-anomaly-detector**](https://github.com/matthews-wong/ml-anomaly-detector) | AIOps service that flags anomalies in operational metrics using Isolation Forest. |
+| [**ai-gateway**](https://github.com/matthews-wong/ai-gateway) | Lightweight LLM API gateway: multi-provider routing, response caching, retries, and token/cost accounting. |
+| [**rag-eval-toolkit**](https://github.com/matthews-wong/rag-eval-toolkit) | Offline RAG evaluation: retrieval hit-rate, MRR, nDCG, and answer-faithfulness checks. |
+| [**prompt-guard**](https://github.com/matthews-wong/prompt-guard) | Screen LLM inputs for prompt-injection, jailbreak patterns, and PII before they reach the model. |
 
 ### 🔗 MLOps (where AI meets DevOps)
 | Project | What it does |
@@ -63,6 +66,8 @@ I'm a developer who enjoys the full path from an idea to something running in pr
 | [**github-actions-cicd-templates**](https://github.com/matthews-wong/github-actions-cicd-templates) | Reusable GitHub Actions workflows for CI/CD and DevSecOps (build, test, scan, deploy). |
 | [**k8s-observability-stack**](https://github.com/matthews-wong/k8s-observability-stack) | Ready-to-run Prometheus + Grafana + Loki stack with provisioned dashboards and alert rules. |
 | [**cloud-cost-insights**](https://github.com/matthews-wong/cloud-cost-insights) | FinOps CLI that turns a cloud cost export into spend analysis and savings recommendations. |
+| [**k8s-rightsizer**](https://github.com/matthews-wong/k8s-rightsizer) | Recommend right-sized Kubernetes requests/limits from observed usage, flagging over/under-provisioning. |
+| [**slo-error-budget-tracker**](https://github.com/matthews-wong/slo-error-budget-tracker) | Compute SLO compliance and error-budget burn-rate with multi-window SRE alerting. |
 
 ### 🔎 SEO toolkit
 | Project | What it does |
