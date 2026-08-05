@@ -1,27 +1,40 @@
 <h1 align="center">Hi, I'm Matthews Wong 👋</h1>
 
 <p align="center">
-  <b>Cloud &amp; AI enthusiast</b> — I build things where <b>LLM applications</b> meet <b>cloud-native infrastructure</b>:
-  RAG systems, MLOps pipelines, and the Kubernetes / Terraform / GitOps plumbing that ships them reliably.
+  <b>Cloud &amp; AI engineer — in love with agentic workflows.</b><br/>
+  I build with <b>Claude Code</b>: multi-agent pipelines, reusable <b>skills &amp; plugins</b>, and self-verifying loops —
+  plus the LLM apps and cloud-native infrastructure that ship them.
 </p>
 
 <p align="center">
   <a href="https://matthewswong.com"><img alt="Website" src="https://img.shields.io/badge/Website-matthewswong.com-0A66C2?logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matthewswong/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matthewswong-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/matthews-wong?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore-my%20repos-2088FF?logo=github&logoColor=white"></a>
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI-6f42c1">
+  <a href="https://github.com/matthews-wong/claude-code-plugins"><img alt="Plugins" src="https://img.shields.io/badge/Claude%20Code-20%20plugins-D97757?logo=anthropic&logoColor=white"></a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Workflows-6f42c1">
 </p>
 
 ---
 
 ### 🧭 What I'm about
 
-I'm a developer who enjoys the full path from an idea to something running in production — training or wiring up a model, wrapping it in a clean API, containerizing it, and getting it onto a cluster with sane CI/CD, GitOps, and observability. The projects below are a connected portfolio built around that theme: **AI applications on the left, the cloud/DevOps foundations on the right, and MLOps bridging the two.**
+What I love most right now is **agentic workflows** — designing systems where AI agents don't just autocomplete but *do the work*: verify their own output, review each other, pull their own context, and run on a schedule. I build these with **Claude Code**, and I package the patterns I use into open-source **plugins and skills** (see the marketplace below). Around that core I still build the LLM apps and the cloud-native infrastructure — Kubernetes, Terraform, GitOps, observability — that get agentic systems into production reliably.
+
+> These are portfolio & demonstration projects — real, runnable code with honest READMEs, meant to show how I think and build.
+
+### 🌟 Featured: [claude-code-plugins](https://github.com/matthews-wong/claude-code-plugins)
+
+A marketplace of **20 Claude Code plugins** for agentic workflows — skills, subagents, verification hooks, orchestration, and cost controls — organized around Boris Cherny's five stages of AI adoption. `/plugin marketplace add matthews-wong/claude-code-plugins`
 
 > These are portfolio & demonstration projects — real, runnable code with honest READMEs, meant to show how I think and build.
 
 ### 🛠️ Tech I reach for
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white)
+![Agent SDK](https://img.shields.io/badge/Agent%20SDK-agents-D97757?logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-model%20context%20protocol-000000)
+![RAG](https://img.shields.io/badge/RAG-retrieval%20augmented-1f883d)
+&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
