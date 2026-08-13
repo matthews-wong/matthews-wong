@@ -123,11 +123,26 @@ A marketplace of **62 Claude Code plugins** — agentic-workflow core (skills, s
 ### 📊 GitHub
 
 <p align="center">
-  <a href="https://github.com/matthews-wong"><img alt="Followers" src="https://img.shields.io/github/followers/matthews-wong?style=for-the-badge&logo=github&label=Followers&labelColor=1f2328&color=2088FF"></a>
-  <a href="https://github.com/matthews-wong?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-explore-2088FF?style=for-the-badge&logo=github&labelColor=1f2328"></a>
+  <a href="https://github.com/matthews-wong"><img alt="Followers" src="https://img.shields.io/github/followers/matthews-wong?style=for-the-badge&logo=github&label=Followers&labelColor=1f2328&color=D97757"></a>
+  <a href="https://github.com/matthews-wong?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-explore-D97757?style=for-the-badge&logo=github&labelColor=1f2328"></a>
 </p>
 
-<sub>The languages and tools I work with most are in the tech-stack row above.</sub>
+<p align="center">
+  <a href="https://github.com/matthews-wong">
+    <img height="165em" alt="Matthews Wong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=matthews-wong&show_icons=true&hide_border=true&count_private=true&title_color=D97757&icon_color=D97757&text_color=768390&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/matthews-wong">
+    <img height="165em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthews-wong&layout=compact&hide_border=true&langs_count=8&title_color=D97757&text_color=768390&bg_color=00000000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matthews-wong">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=matthews-wong&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757&background=00000000&stroke=768390&sideNums=768390&sideLabels=768390&dates=768390&currStreakNum=768390" />
+  </a>
+</p>
+
+<sub>Stats cards render live from GitHub — the languages and tools I reach for most are also in the tech-stack row above.</sub>
 
 ---
 
