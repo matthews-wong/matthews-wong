@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Matthews Wong 👋</h1>
 
 <p align="center">
-  <b>Cloud &amp; AI engineer — in love with agentic workflows.</b><br/>
-  I build with <b>Claude Code</b>: multi-agent pipelines, reusable <b>skills &amp; plugins</b>, and self-verifying loops —
-  plus the LLM apps and cloud-native infrastructure that ship them.
+  <b>Software engineer in Indonesia — DevOps &amp; cloud infrastructure, ERP systems, and full-stack web apps.</b><br/>
+  I build and operate production systems: CI/CD and Kubernetes, custom ERP modules for Indonesian
+  businesses (AP/AR, hierarchical approvals, PPN and e-Faktur), and the Next.js apps on top.
+  Lately most of that work runs through <b>Claude Code</b> — multi-agent pipelines, reusable
+  <b>skills &amp; plugins</b>, and self-verifying loops.
 </p>
 
 <p align="center">
@@ -18,6 +20,8 @@
 ### 🧭 What I'm about
 
 What I love most right now is **agentic workflows** — designing systems where AI agents don't just autocomplete but *do the work*: verify their own output, review each other, pull their own context, and run on a schedule. I build these with **Claude Code**, and I package the patterns I use into open-source **plugins and skills** (see the marketplace below). Around that core I still build the LLM apps and the cloud-native infrastructure — Kubernetes, Terraform, GitOps, observability — that get agentic systems into production reliably.
+
+I write about the Indonesian side of this in particular — PPN and e-Faktur inside a custom ERP, Coretax DJP integration, QRIS and the SNAP open-banking standard, UU PDP compliance, and which local cloud is actually worth paying for. Most of it is not documented in English anywhere else, which is why I keep writing it down at [matthewswong.com](https://matthewswong.com).
 
 > These are portfolio & demonstration projects — real, runnable code with honest READMEs, meant to show how I think and build.
 
